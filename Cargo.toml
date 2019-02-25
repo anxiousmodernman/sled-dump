@@ -1,0 +1,8 @@
+[package]
+name = "sled-dump"
+version = "0.1.0"
+authors = ["Coleman McFarland <coleman.mcfarland@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sled = "*"
